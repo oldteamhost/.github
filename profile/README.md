@@ -1,8 +1,7 @@
 # OldTeam
 ```
-Programming Reference \                                                                                OldTeam 2023
-Guide                                                                                                    17 october 
-
+OldTeam 2023
+17 october 
                                                       CODESTYLE
 
 * Indent with 2 spaces, not tabs    * For comments use only /**/         * Try to write without libraries
