@@ -1,4 +1,3 @@
-```
 OldTeam 2023
 17 october 
                                                       CODESTYLE
@@ -6,4 +5,3 @@ OldTeam 2023
 * Indent with 2 spaces, not tabs    * For comments use only /**/         * Try to write without libraries
 * No trailing whitespace            * Perror style [func_name/error]     * There's nothing that can't be written
 * Use only snake_case               * Goto and Macros are not bad code   * Failure understand means looking deeper
-```
