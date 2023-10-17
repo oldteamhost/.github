@@ -1,4 +1,3 @@
-# OldTeam
 ```
 OldTeam 2023
 17 october 
