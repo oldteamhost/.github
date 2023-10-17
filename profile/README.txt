@@ -11,4 +11,4 @@ Telegram:  https://t.me/+Ft1ABe8P8Tc1YzZi
 WebSite:   http://oldteamhost.ru/
 
 
-lomaster. norim. kl1sty.
+lomaster. norim. kl1sty.                                                                              OldTeam 2023
