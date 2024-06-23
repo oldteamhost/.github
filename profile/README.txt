@@ -8,7 +8,7 @@
 
                                                       RECONTACT
 Telegram:  https://t.me/+Ft1ABe8P8Tc1YzZi
-WebSite:   http://oldteamhost.ru/
+WebSite:   https://oldteamhost.github.io
 
 
 lomaster. norim. kl1sty.                                                                              OldTeam 2023
